@@ -1,4 +1,6 @@
 Linea 1
+<<<<<<< HEAD
 Linea 2
 Linea 3 
 Problema
+
